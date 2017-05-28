@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 19e617673718f3646800094c1c6d0058
+timeCreated: 1494765176
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cyberdyne Italic
+  fontNames:
+  - Cyberdyne Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

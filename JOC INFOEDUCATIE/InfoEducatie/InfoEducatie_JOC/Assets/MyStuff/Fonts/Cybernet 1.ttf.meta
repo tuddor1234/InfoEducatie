@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 98b61c707b108e14f909e9a975bd8eff
+timeCreated: 1494765176
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cybernet
+  fontNames:
+  - Cybernet
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 354ecdc3d890765428e6e5e9c5c9f2ee, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

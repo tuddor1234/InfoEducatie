@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3fb91c2c114567646a1ab2be5b23bb50
+timeCreated: 1494765176
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cyberdyne Condensed Italic
+  fontNames:
+  - Cyberdyne Condensed Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
